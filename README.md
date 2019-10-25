@@ -5,6 +5,7 @@
 # cavax
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/kjhealy/cavax.svg?branch=master)](https://travis-ci.org/kjhealy/cavax)
 <!-- badges: end -->
 
 
