@@ -1,0 +1,14 @@
+Package: cavax
+Title: Vaccination Exemptions in California Kindergardens
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kieran",
+           family = "Healy",
+           role = c("aut", "cre"),
+           email = "kjhealy@gmail.com")
+Description: A data package. Contains a dataset on PBE vaccination exemption rates in California Kindergartens in 2014-15.
+License: MIT + file LICENSE
+Depends: R (>= 3.5)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
