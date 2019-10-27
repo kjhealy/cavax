@@ -9,7 +9,7 @@
 #' \item{\code{code}}{School ID code.}
 #' \item{\code{county}}{County name.}
 #' \item{\code{name}}{School name.}
-#' \item{\code{type}}{Schooly type.}
+#' \item{\code{type}}{School type.}
 #' \item{\code{district}}{School district name.}
 #' \item{\code{city}}{City location.}
 #' \item{\code{enrollment}}{Total kindergarten enrollment.}
