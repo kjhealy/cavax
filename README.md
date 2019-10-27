@@ -1,6 +1,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 
+
 # cavax
 
 <!-- badges: start -->
@@ -8,7 +9,7 @@
 <!-- badges: end -->
 
 
-The `cavax` package contains three datasets, `nyc_license`, `nyc_bites`, and `nyc_zips`. They contain, respectively, data on all licensed dogs in New York city, data on reported dog bites in New York city, and geographical data for New York city at the zip code level.
+The `cavax` package contains data on vaccination exemption rates in California kindergartens.
 
 
 ## Installation
